@@ -1,7 +1,6 @@
-### Olá! Eu me chamo Álef de Souza Rosa, <br> tenho 18 anos e sou Desenvolvedor Full-Stack.
+### Olá! Eu me chamo Álef de Souza Rosa, <br> tenho 19 anos e sou Desenvolvedor Full-Stack.
 
-
-- 👨‍🎓 Estudando Javascript/Next/React/Laravel/VueJs
+- Javascript / React JS / React Native / Java / SpringBoot / PHP / Laravel / C#
 
 ##
 
